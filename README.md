@@ -1,7 +1,5 @@
 # Group Project 2
 
-![presentation_gif](./images/project_gif.gif)
-
 ## Table of Contents
 
 1. Hypothesis
